@@ -1,2 +1,61 @@
-# AU_software_development_task_2
-This repository contains the solution for task_2
+# AU Software Development — Task 2
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+
+Учебный репозиторий с решениями заданий второго модуля курса **«Разработка программного обеспечения в эпоху ИИ»**.  
+Все задания выполнены на языке Python.
+
+## 📋 Содержание
+
+- Структура проекта
+- Требования
+- Установка и запуск
+
+## 📁 Структура проекта
+AU_software_development_task_2/
+
+├── projects_2/
+
+│   ├── task_2_0/
+
+│   ├── task_2_1/
+
+│   ├── task_2_2/
+
+│   ├── task_2_3/
+
+│   ├── task_2_4/
+
+│   ├── task_2_5/
+
+│   ├── task_2_6/
+
+│   └── task_2_7/
+
+└── README.md
+
+Каждая папка `task_2_X` содержит один или несколько `.py`-файлов с решениями.  
+В некоторых директориях также присутствуют вспомогательные файлы (например, `output.txt`, `inventory.txt`), используемые в заданиях.
+
+## ⚙️ Требования
+
+- **Python 3.8 или выше**
+- Стандартная библиотека Python (дополнительные зависимости не требуются)
+
+## 🚀 Установка и запуск
+
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/MaxStep07/AU_software_development_task_2.git
+   cd AU_software_development_task_2
+
+2. Перейдите в папку с нужным заданием, например:
+   ```bash
+   cd projects_2/task_2_0
+
+3. Запустите скрипт:
+   ```bash
+   python task_2-0_1.py
+   
+Для заданий, требующих ввода данных, следуйте инструкциям в консоли.
+
